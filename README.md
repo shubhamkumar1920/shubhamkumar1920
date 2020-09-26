@@ -1,5 +1,3 @@
-Shubham Kumar/README.md
-
 ### Hi there I'm Shubham Kumar 👋
 
 ### I'm a Frontend website developer and a programmer.👋
