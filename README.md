@@ -13,6 +13,7 @@
 - ⚡ Fun fact: I love to hear song and watch movies
 
 Connect with me:
+
 LinkedIn | YouTube | Facebook | Twitter | Instagram
 
 Languages and Tools:
