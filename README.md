@@ -1,6 +1,6 @@
 ### Hi there I'm Shubham Kumar 👋
 
-### I'm a Frontend website developer and a programmer.👋
+### I'm a Frontend Website Developer and a Programmer.👋
 
 - 🔭 I’m currently studying in university institute of technology,burdwan
 - 🌱 I’m currently learning everything 🤣
@@ -12,6 +12,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to hear song and watch movies
 
-Connect with me: LinkedIn | YouTube | Facebook | Twitter | Instagram
+Connect with me:
+LinkedIn | YouTube | Facebook | Twitter | Instagram
 
 Languages and Tools:
