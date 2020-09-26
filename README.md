@@ -1,16 +1,19 @@
-### Hi there 👋
+Shubham Kumar/README.md
 
-<!--
-**shubhamkumar1920/shubhamkumar1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Shubham Kumar 👋
 
-Here are some ideas to get you started:
+### I'm a Frontend website developer and a programmer.👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently studying in university institute of technology,burdwan
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking for job to start my career.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about frontend related stuff.
+- 📫 How to reach me: Github.
+- 🥅 2020 Goals: To Get the Job.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love to hear song and watch movies
+
+Connect with me: LinkedIn | YouTube | Facebook | Twitter | Instagram
+
+Languages and Tools:
