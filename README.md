@@ -1,6 +1,6 @@
 ### Hi there I'm Shubham Kumar 👋
 
-### I'm a Frontend Website Developer and a Programmer.👋
+### I'm a Mern Stack Web Developer and a Java Programmer.👋
 
 - 🔭 I’m currently studying in university institute of technology,burdwan
 - 🌱 I’m currently learning everything 🤣
