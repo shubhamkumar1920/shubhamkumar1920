@@ -1,14 +1,14 @@
 ### Hi there I'm Shubham Kumar 👋
 
-### I'm a Frontend Developer and a Java Programmer.👋
+### I'm a Software Developer and a Java Programmer.👋
 
-- 🔭 I’m currently studying in university institute of technology,burdwan
+- 🔭 I’m studied in university institute of technology,burdwan
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for job to start my career.
-- 🤔 I’m looking for help.
+- 👯 I’m currently looking for job.
+<!-- - 🤔 I’m looking for help. -->
 - 💬 Ask me about frontend related stuff.
 - 📫 How to reach me: Github.
-- 🥅 2021 Goals: To Get the Job.
+- 🥅 2022 Goals: To Get next the Job.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to listen song and watch movies
 
