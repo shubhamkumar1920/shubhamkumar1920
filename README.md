@@ -8,7 +8,7 @@
 <!-- - 🤔 I’m looking for help. -->
 - 💬 Ask me about frontend related stuff.
 - 📫 How to reach me: Github.
-- 🥅 2022 Goals: To Get next the Job.
+- 🥅 2022 Goals: To Get next Job.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to listen song and watch movies
 
