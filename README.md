@@ -7,7 +7,7 @@
 - 👯 Currently seeking new opportunities as a Frontend Developer.
 - 💬 Ask me anything about frontend development; I'm here to help!
 - 📫 Reach out to me on [GitHub](https://github.com/shubhamkumar1920).
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: I find joy in listening to music and watching movies.
 
 ### Connect with me:
