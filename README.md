@@ -1,6 +1,6 @@
 ### Hi there I'm Shubham Kumar 👋
 
-### I'm a Senior Frontend Software Developer.👋
+### I'm a Senior Software Engineer(Frontend).👋
 
 - 🔭 Graduated from the University Institute of Technology, Burdwan.
 - 🌱 Currently diving deep into all things frontend development 🤣
